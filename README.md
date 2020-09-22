@@ -4,7 +4,6 @@ This is the solution to the *Mathematics Research Question* answered by **Olados
 
 **Date**: *23rd of September, 2020*
 
-**Time**: *9pm*
 
 ## Content of the Folder
 
